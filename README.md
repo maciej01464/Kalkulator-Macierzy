@@ -1,3 +1,3 @@
-﻿# cwiczenie-02-koszt-ladowania.
+﻿
 
 
