@@ -12,4 +12,4 @@ run: $(TARGET)
 	./$(TARGET)
 
 clean:
-	rm -f $(TARGET) $(TARGET).exe
+	if exist $(TARGET).exe del /F /Q $(TARGET).exe
